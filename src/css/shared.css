@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap');
+
+.form-label {
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 0;
+}
+
+.form-input {
+    font-family: 'Rubik', sans-serif;
+    border: 1px solid var(--primary);
+    border-radius: 4px;
+}
+
+.form-submit {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.form-submit:hover {
+    background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+}
+
+.section-title {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-family: 'Rubik', sans-serif;
+}
+
+.section-subtitle {
+    font-weight: 300;
+    font-family: 'Rubik', sans-serif;
+    color: var(--secondary);
+}
+

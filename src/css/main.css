@@ -1,0 +1,21 @@
+@import url(./navbar.css);
+@import url(./first-section.css);
+@import url(./bootstrap.min.css);
+@import url(./shared.css);
+@import url(./config.css);
+@import url(./responsive.css);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body,
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.d-grid {
+    display: grid;
+}
