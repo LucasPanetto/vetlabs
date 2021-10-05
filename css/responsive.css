@@ -10,4 +10,44 @@
         justify-content: center;
     }
 
+    .first-section .title {
+        font-size: 45px;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    #try-it {
+        bottom: -10px !important;
+    }
+
+    #functions .section-title {
+        font-size: 30px;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    #functions .icon img {
+        max-height: 160px;
+    }
+
+    #functions .image-container,
+    #functions .icon {
+        height: 200px;
+    }
+
+    #functions .icon {
+        margin: auto;
+        width: 40%;
+    }
+
+    #functions h5 {
+        margin-top: 5px;
+    }
+
+    #functions h5,
+    #functions p {
+        text-align: center;
+    }
+
+    #telas .row{
+        text-align: -webkit-center;
+    }
 }
